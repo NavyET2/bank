@@ -1,4 +1,5 @@
 //business logic
+
 function Person(name, initialDeposit) {
   this.fullName = name;
   this.balance = initialDeposit;
